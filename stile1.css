@@ -1,0 +1,28 @@
+*
+{
+	color: green;
+	background-color: #D1E1BA; 
+}
+h1	 
+{
+	text-align:center;
+    font-family:serif;
+}
+p
+{
+	color: #2247B7;
+	font-family: Miriam;
+	font-size: 18px;
+}
+img
+{
+	height:150px; 
+	width:200px;
+    text-align: center;
+}
+table
+{
+	border-color:red;
+	margin-bottom:dashed;
+    border-style: double;
+}
